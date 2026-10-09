@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "coffeebar" do
-  version "0.1.0"
-  sha256 "9b79108fe99cf211cca63691d426d56874231071f32c9b424de1819a6867e232"
+  version "0.2.0"
+  sha256 "c7eae1d881dd6f02e28fb396b1c67906d9a30d8fc06cfb1680c784da2e58b4ca"
 
   url "https://github.com/carlosfachini/coffeebar/releases/download/v#{version}/CoffeeBar-macos-universal-#{version}.zip",
       verified: "github.com/carlosfachini/coffeebar/"
