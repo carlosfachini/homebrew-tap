@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "coffeebar" do
-  version "0.2.0"
-  sha256 "c7eae1d881dd6f02e28fb396b1c67906d9a30d8fc06cfb1680c784da2e58b4ca"
+  version "0.2.1"
+  sha256 "509653f41f4426e3538086a941e3fe0545b02c38b578d5e8c2f99e6b188cd630"
 
   url "https://github.com/carlosfachini/coffeebar/releases/download/v#{version}/CoffeeBar-macos-universal-#{version}.zip"
   name "CoffeeBar"
